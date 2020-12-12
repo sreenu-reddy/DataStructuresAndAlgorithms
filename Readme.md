@@ -1,1 +1,1 @@
-COncepts related to Data Structures and Algorithms
+Concepts related to Data Structures and Algorithms
